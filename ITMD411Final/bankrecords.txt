@@ -1,0 +1,6 @@
+Avg inc. for Females: $28646.32
+Avg inc. for Males: $27225.83
+Innercity region males with car & 1 child:15
+Rural region males with car & 1 child:9
+Surban region males with car & 1 child:3
+Town region males with car & 1 child:7
